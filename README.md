@@ -40,7 +40,7 @@
 <p><strong>Combination of arguments</strong>:<br />(examples only with short version but you can use long too)</p>
 <ul>
 <li>--help:<br /><span style="font-weight: 400;">python mac_changer --help</span></li>
-<li>-i:<br />python3 mac_changer -i (your interface &ldquo;eth0&rdquo;)</li>
-<li>-m:<br />python mac_changer -m 00:14:22:91:56:37</li>
-<li>Your line should be like this:<br />python mac_changer -i (your interface &ldquo;eth0&rdquo;) -m (the new mac address &ldquo; 00:14:22:91:56:37&rdquo;)</li>
+<li>-i:<code>python3 mac_changer -i (your interface &ldquo;eth0&rdquo;)</code>
+<li>-m:<code>python mac_changer -m 00:14:22:91:56:37</code>
+<li>Your line should be like this:<code>python mac_changer -i (your interface &ldquo;eth0&rdquo;) -m (the new mac address &ldquo; 00:14:22:91:56:37&rdquo;)</code>
 </ul>
