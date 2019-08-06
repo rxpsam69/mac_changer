@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import subproces
+import subprocess
 import optparse
 import re
 
