@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import subprocess
-import optpars
+import optparse
 import re
 
 def get_arguments():
