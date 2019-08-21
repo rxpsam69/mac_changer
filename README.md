@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/zVqQbym/oie-f-IVAi-Ot-Ik-K4e.png" width="100"> </a>
+<img sc="https://i.ibb.co/zVqQbym/oie-f-IVAi-Ot-Ik-K4e.png" width="100"> </a>
 
 <h3 style="line-height: 1.2; margin-left: -15pt; background-color: #ffffff; margin-top: 18pt; margin-bottom: 12pt;"><strong><span style="font-size: 16.5pt; font-family: Arial; color: #24292e; background-color: transparent; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;"> Fea</span></strong><strong style="font-size: 14px;"><span style="font-size: 16.5pt; font-family: Arial; color: #24292e; background-color: transparent; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">tures Version 1.1</span></strong></h3>
 <ul style="margin-top: 0pt; margin-bottom: 0pt;">
